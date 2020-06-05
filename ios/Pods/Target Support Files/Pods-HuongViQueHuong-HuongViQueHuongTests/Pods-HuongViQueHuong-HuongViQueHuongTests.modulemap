@@ -1,0 +1,6 @@
+module Pods_HuongViQueHuong_HuongViQueHuongTests {
+  umbrella header "Pods-HuongViQueHuong-HuongViQueHuongTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
